@@ -1,0 +1,8 @@
+<jboss-deployment-structure>
+    <deployment>
+        <dependencies>
+            <module name="org.eclipse.microprofile.config.api"/>
+            <module name="io.smallrye.config" />
+        </dependencies>
+    </deployment>
+</jboss-deployment-structure>

@@ -13,6 +13,16 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="childJar" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec:2.0.1.Final" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.eclipse.microprofile.config:microprofile-config-api:1.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.eclipse.microprofile.config:microprofile-config-api:2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.smallrye.config:smallrye-config:2.0.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.smallrye.config:smallrye-config-core:2.0.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.smallrye.common:smallrye-common-annotation:1.5.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.smallrye.common:smallrye-common-expression:1.5.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.smallrye.common:smallrye-common-function:1.5.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.smallrye.common:smallrye-common-constraint:1.5.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.smallrye.common:smallrye-common-classloader:1.5.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm:9.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.smallrye.config:smallrye-config-common:2.0.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.jboss.logging:jboss-logging:3.4.1.Final" level="project" />
   </component>
 </module>
